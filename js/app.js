@@ -3,14 +3,14 @@
 /*1. Replace the n/a with the following:
 
 Tay-Tay*/
-
-
+var nameElement = document.getElementById("name1");
+nameElement.innerHTML = "Tay-Tay";
 
 /*2. Replace the n/a with the following: 
 
 Project Manager*/
-
-
+var positionElement = document.getElementById("position2");
+positionElement.innerHTML = "Project Manager";
 
 /*3. Replace the n/a with the following:
 
